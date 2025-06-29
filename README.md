@@ -25,7 +25,8 @@ Built an interactive dashboard showing:
 - Drilldowns for gender, job type, and SEW band analysis.
 
 ![image](https://github.com/user-attachments/assets/78c88b3a-6053-4c5e-bff8-5ee69cdacd9f)
-
+![image](https://github.com/user-attachments/assets/565d3ec2-7a6d-48d0-bfdd-258b5aba098f)
+![image](https://github.com/user-attachments/assets/08dd2c9d-553c-43f0-86a3-112b933d3c04)
 
 ## Predictive Modelling
 - Model: XGBoost classifier

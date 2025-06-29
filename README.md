@@ -24,6 +24,9 @@ Built an interactive dashboard showing:
 - Voluntary vs. involuntary terminations.
 - Drilldowns for gender, job type, and SEW band analysis.
 
+![image](https://github.com/user-attachments/assets/78c88b3a-6053-4c5e-bff8-5ee69cdacd9f)
+
+
 ## Predictive Modelling
 - Model: XGBoost classifier
 - Target: Binary attrition label (1 = terminated, 0 = active)
@@ -59,4 +62,7 @@ Built an interactive dashboard showing:
 
 ## 📝 Conclusion
 This project demonstrates the power of combining predictive modelling and business intelligence tools to tackle workforce challenges. The integration of machine learning, automation, and visualization can significantly enhance HR’s ability to make proactive, data-driven decisions.
+
+## ✨ About Me
+I'm a Data Scientist passionate about turning complex data into actionable insights through machine learning, automation, and visualization.
 

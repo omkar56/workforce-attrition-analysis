@@ -47,23 +47,23 @@ Built an interactive dashboard showing:
 - High-risk job types: Managers, academic staff, and professional officers in mid-career stages.
 - Engagement vs. performance: Low SEW had stronger correlation with attrition than performance alone.
 
-## 📈 Recommendations
-### ✅ Short-term
+## Recommendations
+### Short-term
 - Flag high-risk staff for engagement interventions.
 - Prioritize SEW improvement initiatives (surveys, work-life balance programs).
 
-### 🌱 Long-term
+### Long-term
 - Integrate XGBoost model into HR dashboards for continuous risk monitoring.
 - Design data-driven career pathing and retention plans.
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 - Python: Pandas, PySpark, XGBoost, SHAP, Matplotlib, Seaborn
 - Power BI: Custom visuals, row-level security, drillthrough pages
 - Databricks: Data wrangling
 
-## 📝 Conclusion
+## Conclusion
 This project demonstrates the power of combining predictive modelling and business intelligence tools to tackle workforce challenges. The integration of machine learning, automation, and visualization can significantly enhance HR’s ability to make proactive, data-driven decisions.
 
-## ✨ About Me
+## About Me
 I'm a Data Scientist passionate about turning complex data into actionable insights through machine learning, automation, and visualization.
 
